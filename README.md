@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi! I'm Erwing Solórzano  
 
-<!--
-**erwingsolorzano/erwingsolorzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer**  
+Skilled in **Node.js**, **React**, **MySQL**, and **MongoDB**, I specialize in building scalable web applications and delivering impactful solutions.  
 
-Here are some ideas to get you started:
+🚀 **Projects**  
+- 🔗 [Reddit Clone](https://github.com/erwingsolorzano/reddit-clone)  
+- 📂 [Task Manager App](https://github.com/erwingsolorzano/task-manager)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning:** Advanced Node.js and Performance Optimization  
+📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/erwing-solorzano) | [Email](mailto:erwing1394@gmail.com)
+
+---
+
+<div display="flex">
+
+  ![Erwing Solórzano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erwingsolorzano&show_icons=true&theme=radical)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwingsolorzano&layout=compact&theme=radical)  
+
+</div>
+
+---
