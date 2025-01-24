@@ -4,8 +4,8 @@
 Skilled in **Node.js**, **React**, **MySQL**, and **MongoDB**, I specialize in building scalable web applications and delivering impactful solutions.  
 
 🚀 **Projects**  
-- 🔗 [Reddit Clone](https://github.com/erwingsolorzano/reddit-clone)  
-- 📂 [Task Manager App](https://github.com/erwingsolorzano/task-manager)  
+- 🔗 [URL shortener](https://github.com/erwingsolorzano/url-shorten)  
+- 📂 [To Do App](https://github.com/erwingsolorzano/todo-app)  
 
 🌱 **Currently Learning:** Advanced Node.js and Performance Optimization  
 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/erwing-solorzano) | [Email](mailto:erwing1394@gmail.com)
