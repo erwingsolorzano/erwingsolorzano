@@ -16,6 +16,7 @@ Skilled in **Node.js**, **React**, **MySQL**, and **MongoDB**, I specialize in b
 
   ![Erwing Solórzano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erwingsolorzano&show_icons=true&theme=radical)  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwingsolorzano&layout=compact&theme=radical)  
+  ![Metrics](https://metrics.lecoq.io/tuusuario?template=classic&languages=1&achievements=1)
 
 </div>
 
