@@ -5,7 +5,8 @@ Skilled in **Node.js**, **React**, **MySQL**, and **MongoDB**, I specialize in b
 
 🚀 **Projects**  
 - 🍽 [Restaurant order manager](https://github.com/erwingsolorzano/restaurant-order-manager)
-- 🔗 [URL shortener](https://github.com/erwingsolorzano/url-shorten)    
+- 🔗 [sistema de inventario (frontend) - wip](https://github.com/erwingsolorzano/inventory-frontend)
+- 🔗 [sistema de inventario (backend) - wip](https://github.com/erwingsolorzano/es-inventory)    
 
 🌱 **Currently Learning:** Advanced Node.js and Performance Optimization  
 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/erwing-solorzano) | [Email](mailto:erwing1394@gmail.com)
