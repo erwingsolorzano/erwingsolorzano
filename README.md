@@ -4,9 +4,8 @@
 Skilled in **Node.js**, **React**, **MySQL**, and **MongoDB**, I specialize in building scalable web applications and delivering impactful solutions.  
 
 🚀 **Projects**  
-- 🍽 [Restaurant order manager](https://github.com/erwingsolorzano/restaurant-order-manager)
-- 🔗 [sistema de inventario (frontend) - wip](https://github.com/erwingsolorzano/inventory-frontend)
-- 🔗 [sistema de inventario (backend) - wip](https://github.com/erwingsolorzano/es-inventory)    
+- 💍 [Wedder](https://wedder.vercel.app)
+- 🍽 [Astroweb](https://erwingsolorzano.github.io/astroweb/)
 
 🌱 **Currently Learning:** Advanced Node.js and Performance Optimization  
 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/erwing-solorzano) | [Email](mailto:erwing1394@gmail.com)
